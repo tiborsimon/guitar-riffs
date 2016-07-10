@@ -1,9 +1,8 @@
 # Template song
 
-|:---------- |:-------------|
-| artist     | shnobel      |
-| tabbed by  | Tibor Simon  |
-| link       | [https://youtu.be/UW8x2TV7RJg?t=33s](https://youtu.be/UW8x2TV7RJg?t=33s) |
+- _Artist:_ shnobel
+- _Tabbed by:_ Tibor Simon
+- _Link:_ [https://youtu.be/UW8x2TV7RJg?t=33s](https://youtu.be/UW8x2TV7RJg?t=33s)
 
 ```
 e|---------------------------------------------------------------|
